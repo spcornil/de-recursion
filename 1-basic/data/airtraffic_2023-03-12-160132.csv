@@ -1,0 +1,5 @@
+icao24,callsign,origin_country,time_position,last_contact,longitude,latitude,baro_altitude,on_ground,velocity,true_track,vertical_rate,sensors,geo_altitude,squawk,spi,position_source
+3c6519,,Germany,2023-03-12 16:01:23,2023-03-12 16:01:23,6.9004,50.5049,9753.6,False,196.53,290.85,0.0,,9707.88,,False,0
+ab68d0,,United States,,2023-03-12 16:01:23,,,,False,239.99,139.17,0.33,,,,False,0
+4d22b1,,Malta,2023-03-12 16:01:23,2023-03-12 16:01:23,-2.9647,53.5515,10972.8,False,177.1,279.02,0.0,,10927.08,,False,0
+a69b92,,United States,,2023-03-12 16:01:23,,,,False,150.48,71.26,13.0,,,,False,0
