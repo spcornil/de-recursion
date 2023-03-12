@@ -49443,3 +49443,2058 @@ File Path                          PID    Runtime      # DAGs    # Errors  Last 
 /opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T19:37:07
 /opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:36:52
 ================================================================================
+[2023-03-12T19:37:48.780+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.13s           2023-03-12T19:37:30
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:37:22
+/opt/airflow/dags/test-rocket.py                            1           0  0.13s           2023-03-12T19:37:37
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T19:37:22
+================================================================================
+[2023-03-12T19:38:19.124+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.13s           2023-03-12T19:38:01
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:37:52
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T19:38:08
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:37:52
+================================================================================
+[2023-03-12T19:38:49.465+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.13s           2023-03-12T19:38:31
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:38:23
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:38:38
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:38:23
+================================================================================
+[2023-03-12T19:39:19.712+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.13s           2023-03-12T19:39:01
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:38:53
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:39:08
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:38:53
+================================================================================
+[2023-03-12T19:39:50.049+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.13s           2023-03-12T19:39:31
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T19:39:23
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:39:39
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:39:23
+================================================================================
+[2023-03-12T19:40:20.381+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.12s           2023-03-12T19:40:02
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:39:54
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:40:09
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:39:54
+================================================================================
+[2023-03-12T19:40:50.734+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.12s           2023-03-12T19:40:32
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.17s           2023-03-12T19:40:24
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:40:39
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T19:40:24
+================================================================================
+[2023-03-12T19:40:56.875+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T19:40:56.876+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T19:41:20.989+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:40:53
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:40:54
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:41:10
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:40:54
+================================================================================
+[2023-03-12T19:41:51.244+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.03s           2023-03-12T19:41:24
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T19:41:25
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:41:40
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:41:25
+================================================================================
+[2023-03-12T19:42:14.452+0000] {manager.py:520} INFO - DAG ISS_Location is missing and will be deactivated.
+[2023-03-12T19:42:14.454+0000] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-03-12T19:42:14.456+0000] {manager.py:534} INFO - Deleted DAG ISS_Location in serialized_dag table
+[2023-03-12T19:42:21.485+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:41:54
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:41:55
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:42:10
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:41:55
+================================================================================
+[2023-03-12T19:42:51.722+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:42:24
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:42:25
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:42:40
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:42:25
+================================================================================
+[2023-03-12T19:43:21.968+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:42:54
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:42:55
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:43:11
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:42:55
+================================================================================
+[2023-03-12T19:43:52.207+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:43:25
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:43:26
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:43:41
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:43:26
+================================================================================
+[2023-03-12T19:44:22.437+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:43:55
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:43:56
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:44:11
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T19:43:56
+================================================================================
+[2023-03-12T19:44:52.691+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:44:25
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T19:44:26
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:44:41
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:44:26
+================================================================================
+[2023-03-12T19:45:22.958+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:44:55
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.15s           2023-03-12T19:44:56
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:45:11
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:44:56
+================================================================================
+[2023-03-12T19:45:53.191+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:45:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:45:27
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:45:42
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T19:45:27
+================================================================================
+[2023-03-12T19:45:57.213+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T19:45:57.214+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T19:46:23.456+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:45:56
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T19:45:57
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:46:12
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:45:57
+================================================================================
+[2023-03-12T19:46:53.696+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:46:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:46:27
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:46:42
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:46:27
+================================================================================
+[2023-03-12T19:47:23.942+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:46:56
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:46:57
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:47:12
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:46:57
+================================================================================
+[2023-03-12T19:47:54.203+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:47:30
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:47:28
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:47:43
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:47:28
+================================================================================
+[2023-03-12T19:48:24.474+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:48:00
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T19:47:58
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:48:13
+/opt/airflow/dags/OpenSky.py                                1           0  0.13s           2023-03-12T19:47:58
+================================================================================
+[2023-03-12T19:48:54.737+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T19:48:30
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:48:28
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:48:43
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:48:28
+================================================================================
+[2023-03-12T19:49:25.042+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.08s           2023-03-12T19:49:00
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:48:58
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:49:14
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:48:58
+================================================================================
+[2023-03-12T19:49:55.383+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.09s           2023-03-12T19:49:41
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:49:29
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:49:44
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:49:29
+================================================================================
+[2023-03-12T19:50:25.670+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:50:11
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.15s           2023-03-12T19:49:59
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:50:14
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:49:59
+================================================================================
+[2023-03-12T19:50:55.936+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:50:41
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:50:29
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:50:44
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T19:50:29
+================================================================================
+[2023-03-12T19:50:57.943+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T19:50:57.944+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T19:51:26.220+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:51:12
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:51:00
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:51:15
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:51:00
+================================================================================
+[2023-03-12T19:51:56.488+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:51:42
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:51:30
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:51:45
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:51:30
+================================================================================
+[2023-03-12T19:52:26.770+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:52:12
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:52:00
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:52:15
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:52:00
+================================================================================
+[2023-03-12T19:52:57.049+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:52:42
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.16s           2023-03-12T19:52:30
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:52:46
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T19:52:30
+================================================================================
+[2023-03-12T19:53:27.326+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:53:13
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:53:01
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:53:16
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:53:01
+================================================================================
+[2023-03-12T19:53:57.629+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:53:43
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.16s           2023-03-12T19:53:31
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T19:53:46
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T19:53:31
+================================================================================
+[2023-03-12T19:54:27.910+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:54:13
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:54:01
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:54:16
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:54:01
+================================================================================
+[2023-03-12T19:54:58.191+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:54:44
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.16s           2023-03-12T19:54:32
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:54:47
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:54:32
+================================================================================
+[2023-03-12T19:55:28.465+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:55:14
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:55:02
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:55:17
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:55:02
+================================================================================
+[2023-03-12T19:55:58.812+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T19:55:58.814+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T19:55:58.822+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:55:44
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:55:32
+/opt/airflow/dags/test-rocket.py                            1           0  0.12s           2023-03-12T19:55:47
+/opt/airflow/dags/OpenSky.py                                1           0  0.17s           2023-03-12T19:55:32
+================================================================================
+[2023-03-12T19:56:29.110+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:56:15
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:56:02
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:56:18
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:56:02
+================================================================================
+[2023-03-12T19:56:59.430+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:56:58
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:56:33
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T19:56:48
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T19:56:33
+================================================================================
+[2023-03-12T19:57:29.670+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T19:57:28
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:57:03
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:57:18
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:57:03
+================================================================================
+[2023-03-12T19:57:59.981+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T19:57:54
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:57:33
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:57:48
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:57:33
+================================================================================
+[2023-03-12T19:58:30.290+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T19:58:24
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:58:04
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:58:19
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:58:04
+================================================================================
+[2023-03-12T19:59:00.602+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T19:58:54
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T19:58:34
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:58:49
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:58:34
+================================================================================
+[2023-03-12T19:59:30.917+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T19:59:24
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T19:59:04
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:59:19
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:59:04
+================================================================================
+[2023-03-12T20:00:01.220+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T19:59:55
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T19:59:35
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T19:59:50
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T19:59:35
+================================================================================
+[2023-03-12T20:00:31.557+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:00:25
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.20s           2023-03-12T20:00:05
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:00:20
+/opt/airflow/dags/OpenSky.py                                1           0  0.13s           2023-03-12T20:00:05
+================================================================================
+[2023-03-12T20:00:58.856+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:00:58.857+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:01:01.873+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:00:55
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:00:35
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:00:50
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:00:35
+================================================================================
+[2023-03-12T20:01:32.182+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:01:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:01:06
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:01:21
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:01:05
+================================================================================
+[2023-03-12T20:02:02.483+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:01:56
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:01:36
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:01:51
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:01:36
+================================================================================
+[2023-03-12T20:02:32.794+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:02:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:02:06
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:02:21
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:02:06
+================================================================================
+[2023-03-12T20:03:03.100+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:02:57
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:02:36
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:02:52
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:02:36
+================================================================================
+[2023-03-12T20:03:33.453+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:03:27
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:03:07
+/opt/airflow/dags/test-rocket.py                            1           0  0.14s           2023-03-12T20:03:22
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:03:07
+================================================================================
+[2023-03-12T20:04:03.757+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:03:57
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:03:37
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:03:52
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:03:37
+================================================================================
+[2023-03-12T20:04:34.068+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:04:28
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:04:07
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:04:23
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:04:07
+================================================================================
+[2023-03-12T20:05:04.378+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:04:58
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:04:38
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:04:53
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:04:38
+================================================================================
+[2023-03-12T20:05:34.712+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:05:28
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:05:08
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:05:23
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T20:05:08
+================================================================================
+[2023-03-12T20:05:58.947+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:05:58.948+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:06:05.065+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:05:59
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.15s           2023-03-12T20:05:38
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:05:54
+/opt/airflow/dags/OpenSky.py                                1           0  0.13s           2023-03-12T20:05:38
+================================================================================
+[2023-03-12T20:06:35.390+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.17s           2023-03-12T20:06:29
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:06:09
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:06:24
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T20:06:09
+================================================================================
+[2023-03-12T20:07:05.717+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:06:59
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:06:39
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:06:54
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:06:39
+================================================================================
+[2023-03-12T20:07:36.042+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:07:30
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:07:09
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:07:25
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:07:09
+================================================================================
+[2023-03-12T20:08:06.359+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:08:00
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.15s           2023-03-12T20:07:40
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:07:55
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:07:40
+================================================================================
+[2023-03-12T20:08:36.665+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:08:30
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:08:10
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:08:25
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:08:10
+================================================================================
+[2023-03-12T20:09:06.992+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:09:01
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:08:40
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:08:55
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:08:40
+================================================================================
+[2023-03-12T20:09:37.308+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:09:31
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:09:11
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:09:26
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:09:11
+================================================================================
+[2023-03-12T20:10:07.633+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:10:01
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:09:41
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:09:56
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:09:41
+================================================================================
+[2023-03-12T20:10:37.984+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:10:32
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.16s           2023-03-12T20:10:11
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:10:26
+/opt/airflow/dags/OpenSky.py                                1           0  0.14s           2023-03-12T20:10:11
+================================================================================
+[2023-03-12T20:10:59.174+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:10:59.176+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:11:08.317+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.03s           2023-03-12T20:11:04
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:10:42
+/opt/airflow/dags/test-rocket.py                            1           0  0.12s           2023-03-12T20:10:57
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:10:42
+================================================================================
+[2023-03-12T20:11:38.542+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.04s           2023-03-12T20:11:34
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:11:12
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:11:27
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:11:12
+================================================================================
+[2023-03-12T20:12:08.780+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:11:46
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:11:42
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:11:57
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:11:42
+================================================================================
+[2023-03-12T20:12:39.020+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:12:17
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:12:12
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:12:28
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:12:12
+================================================================================
+[2023-03-12T20:13:09.260+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:12:47
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:12:43
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:12:58
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:12:43
+================================================================================
+[2023-03-12T20:13:39.509+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:13:17
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:13:13
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:13:28
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:13:13
+================================================================================
+[2023-03-12T20:14:09.766+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:13:47
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:13:43
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:13:58
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:13:43
+================================================================================
+[2023-03-12T20:14:40.018+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:14:18
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:14:13
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:14:29
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:14:13
+================================================================================
+[2023-03-12T20:15:10.348+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:15:00
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:14:44
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:14:59
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:14:44
+================================================================================
+[2023-03-12T20:15:40.572+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.11s           2023-03-12T20:15:14
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:15:14
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:15:29
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:15:14
+================================================================================
+[2023-03-12T20:15:59.780+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:15:59.781+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:16:10.883+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:15:44
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.11s           2023-03-12T20:15:44
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:15:59
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:15:44
+================================================================================
+[2023-03-12T20:16:41.225+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:16:15
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:16:15
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:16:30
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:16:15
+================================================================================
+[2023-03-12T20:17:11.548+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:16:45
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:16:45
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:17:00
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:16:45
+================================================================================
+[2023-03-12T20:17:41.870+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:17:15
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:17:15
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:17:30
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:17:15
+================================================================================
+[2023-03-12T20:18:12.189+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:17:46
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:17:46
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:18:01
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:17:45
+================================================================================
+[2023-03-12T20:18:42.521+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:18:16
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:18:16
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:18:31
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:18:16
+================================================================================
+[2023-03-12T20:19:12.868+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:18:48
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:18:46
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:19:01
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:18:46
+================================================================================
+[2023-03-12T20:19:43.230+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:19:37
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:19:17
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:19:32
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:19:16
+================================================================================
+[2023-03-12T20:20:13.540+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:19:46
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:19:47
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:20:02
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:19:47
+================================================================================
+[2023-03-12T20:20:43.841+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:20:16
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:20:17
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:20:32
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:20:17
+================================================================================
+[2023-03-12T20:21:00.049+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:21:00.050+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:21:14.117+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:20:46
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:20:48
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:21:03
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:20:48
+================================================================================
+[2023-03-12T20:21:44.418+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:21:17
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:21:18
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:21:33
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:21:18
+================================================================================
+[2023-03-12T20:22:14.718+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:21:47
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:21:48
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:22:03
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:21:48
+================================================================================
+[2023-03-12T20:22:45.012+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:22:17
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:22:18
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:22:34
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:22:18
+================================================================================
+[2023-03-12T20:23:15.296+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:22:48
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:22:49
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:23:04
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:22:49
+================================================================================
+[2023-03-12T20:23:45.585+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:23:18
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:23:19
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:23:34
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:23:19
+================================================================================
+[2023-03-12T20:24:15.885+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.19s           2023-03-12T20:23:48
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:23:49
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:24:04
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:23:49
+================================================================================
+[2023-03-12T20:24:46.178+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:24:19
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:24:20
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:24:35
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:24:20
+================================================================================
+[2023-03-12T20:25:16.479+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:24:49
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:24:50
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:25:05
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:24:50
+================================================================================
+[2023-03-12T20:25:46.763+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:25:19
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:25:20
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:25:35
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:25:20
+================================================================================
+[2023-03-12T20:26:01.018+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:26:01.019+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:26:17.100+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:25:49
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:25:51
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:26:06
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T20:25:50
+================================================================================
+[2023-03-12T20:26:47.381+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:26:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:26:21
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:26:36
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:26:21
+================================================================================
+[2023-03-12T20:27:17.744+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:26:50
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.19s           2023-03-12T20:26:51
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:27:06
+/opt/airflow/dags/OpenSky.py                                1           0  0.15s           2023-03-12T20:26:51
+================================================================================
+[2023-03-12T20:27:48.023+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:27:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:27:21
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:27:37
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:27:21
+================================================================================
+[2023-03-12T20:28:18.309+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:27:51
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:27:52
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:28:07
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:27:52
+================================================================================
+[2023-03-12T20:28:48.602+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:28:21
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:28:22
+/opt/airflow/dags/test-rocket.py                            1           0  0.12s           2023-03-12T20:28:37
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:28:22
+================================================================================
+[2023-03-12T20:29:18.916+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:28:51
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:28:52
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:29:07
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:28:52
+================================================================================
+[2023-03-12T20:29:49.219+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:29:22
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:29:23
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:29:38
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:29:23
+================================================================================
+[2023-03-12T20:30:19.519+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:29:52
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:29:53
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:30:08
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:29:53
+================================================================================
+[2023-03-12T20:30:49.813+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:30:22
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:30:23
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:30:38
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:30:23
+================================================================================
+[2023-03-12T20:31:01.034+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:31:01.035+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:31:20.104+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:30:52
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:30:54
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:31:09
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:30:53
+================================================================================
+[2023-03-12T20:31:50.388+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:31:23
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:31:24
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:31:39
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:31:24
+================================================================================
+[2023-03-12T20:32:20.679+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:31:53
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:31:54
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:32:09
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:31:54
+================================================================================
+[2023-03-12T20:32:50.980+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:32:23
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:32:24
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:32:40
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:32:24
+================================================================================
+[2023-03-12T20:33:21.269+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:32:54
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:32:55
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:33:10
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:32:55
+================================================================================
+[2023-03-12T20:33:51.595+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:33:24
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.16s           2023-03-12T20:33:25
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:33:40
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:33:25
+================================================================================
+[2023-03-12T20:34:21.851+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:33:54
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:33:55
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:34:10
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:33:55
+================================================================================
+[2023-03-12T20:34:52.172+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:34:25
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:34:26
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:34:41
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:34:26
+================================================================================
+[2023-03-12T20:35:22.453+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:34:55
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:34:56
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:35:11
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:34:56
+================================================================================
+[2023-03-12T20:35:52.752+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:35:25
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:35:26
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:35:41
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:35:26
+================================================================================
+[2023-03-12T20:36:01.954+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:36:01.955+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:36:23.057+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:35:55
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:35:56
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:36:12
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:35:56
+================================================================================
+[2023-03-12T20:36:53.357+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:36:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:36:27
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:36:42
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:36:27
+================================================================================
+[2023-03-12T20:37:23.662+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:36:56
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:36:57
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:37:12
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:36:57
+================================================================================
+[2023-03-12T20:37:53.926+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:37:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:37:27
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:37:42
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:37:27
+================================================================================
+[2023-03-12T20:38:24.212+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:37:57
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:37:58
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:38:13
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:37:58
+================================================================================
+[2023-03-12T20:38:54.500+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:38:27
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:38:28
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:38:43
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:38:28
+================================================================================
+[2023-03-12T20:39:24.819+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:39:13
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:38:58
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:39:13
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:38:58
+================================================================================
+[2023-03-12T20:39:55.136+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:39:44
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:39:28
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:39:44
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:39:28
+================================================================================
+[2023-03-12T20:40:25.458+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:40:14
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:39:59
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:40:14
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:39:59
+================================================================================
+[2023-03-12T20:40:55.777+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:40:44
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:40:29
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:40:44
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:40:29
+================================================================================
+[2023-03-12T20:41:02.901+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:41:02.902+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:41:26.101+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:41:15
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:40:59
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:41:15
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:40:59
+================================================================================
+[2023-03-12T20:41:56.433+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:41:45
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:41:30
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:41:45
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:41:30
+================================================================================
+[2023-03-12T20:42:26.776+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:42:15
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:42:00
+/opt/airflow/dags/test-rocket.py                            1           0  0.12s           2023-03-12T20:42:15
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:42:00
+================================================================================
+[2023-03-12T20:42:57.091+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:42:46
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:42:30
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:42:46
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:42:30
+================================================================================
+[2023-03-12T20:43:27.409+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:43:19
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:43:01
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:43:16
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:43:01
+================================================================================
+[2023-03-12T20:43:57.726+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:43:49
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:43:31
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:43:46
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:43:31
+================================================================================
+[2023-03-12T20:44:28.040+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:44:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:44:01
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:44:16
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:44:01
+================================================================================
+[2023-03-12T20:44:58.345+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:44:50
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:44:32
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:44:47
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:44:32
+================================================================================
+[2023-03-12T20:45:28.669+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:45:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:45:02
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:45:17
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T20:45:02
+================================================================================
+[2023-03-12T20:45:58.982+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.16s           2023-03-12T20:45:51
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:45:32
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:45:47
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:45:32
+================================================================================
+[2023-03-12T20:46:02.998+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:46:02.999+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:46:29.314+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:46:17
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:46:03
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:46:18
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:46:03
+================================================================================
+[2023-03-12T20:46:59.585+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T20:46:37
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:46:33
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:46:48
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:46:33
+================================================================================
+[2023-03-12T20:47:29.858+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T20:47:07
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T20:47:03
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:47:18
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:47:03
+================================================================================
+[2023-03-12T20:47:53.083+0000] {manager.py:520} INFO - DAG ISS_Location is missing and will be deactivated.
+[2023-03-12T20:47:53.086+0000] {manager.py:530} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2023-03-12T20:47:53.087+0000] {manager.py:534} INFO - Deleted DAG ISS_Location in serialized_dag table
+[2023-03-12T20:48:00.117+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.06s           2023-03-12T20:47:38
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:47:33
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:47:49
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:47:33
+================================================================================
+[2023-03-12T20:48:30.441+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:48:26
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:48:04
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:48:19
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:48:04
+================================================================================
+[2023-03-12T20:49:00.738+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:48:56
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:48:34
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:48:49
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:48:34
+================================================================================
+[2023-03-12T20:49:31.061+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:49:27
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:49:04
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:49:20
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:49:04
+================================================================================
+[2023-03-12T20:50:01.358+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:49:57
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:49:35
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:49:50
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:49:35
+================================================================================
+[2023-03-12T20:50:31.672+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:50:27
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:50:05
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T20:50:20
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:50:05
+================================================================================
+[2023-03-12T20:51:01.982+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:50:58
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:50:35
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:50:50
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:50:35
+================================================================================
+[2023-03-12T20:51:03.035+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:51:03.036+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:51:32.294+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:51:28
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:51:06
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:51:21
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:51:06
+================================================================================
+[2023-03-12T20:52:02.591+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.17s           2023-03-12T20:51:58
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:51:36
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:51:51
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:51:36
+================================================================================
+[2023-03-12T20:52:32.890+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:52:28
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:52:06
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:52:21
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:52:06
+================================================================================
+[2023-03-12T20:53:03.185+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:52:59
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:52:37
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:52:52
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:52:37
+================================================================================
+[2023-03-12T20:53:33.494+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:53:21
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:53:07
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:53:22
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:53:07
+================================================================================
+[2023-03-12T20:54:03.860+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:53:51
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.17s           2023-03-12T20:53:37
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:53:52
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:53:37
+================================================================================
+[2023-03-12T20:54:34.096+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py  221834  0.01s             1           0  0.14s           2023-03-12T20:54:22
+/opt/airflow/dags/OpenSky_2.py                               1           0  0.12s           2023-03-12T20:54:07
+/opt/airflow/dags/test-rocket.py                             1           0  0.09s           2023-03-12T20:54:23
+/opt/airflow/dags/OpenSky.py                                 1           0  0.09s           2023-03-12T20:54:07
+================================================================================
+[2023-03-12T20:55:04.406+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py  221886  0.01s             1           0  0.10s           2023-03-12T20:54:34
+/opt/airflow/dags/OpenSky_2.py                               1           0  0.12s           2023-03-12T20:54:38
+/opt/airflow/dags/test-rocket.py                             1           0  0.09s           2023-03-12T20:54:53
+/opt/airflow/dags/OpenSky.py                                 1           0  0.10s           2023-03-12T20:54:38
+================================================================================
+[2023-03-12T20:55:34.783+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T20:55:18
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:55:08
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:55:23
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:55:08
+================================================================================
+[2023-03-12T20:56:03.080+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T20:56:03.081+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T20:56:05.096+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:55:49
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.19s           2023-03-12T20:55:38
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:55:54
+/opt/airflow/dags/OpenSky.py                                1           0  0.17s           2023-03-12T20:55:38
+================================================================================
+[2023-03-12T20:56:35.330+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:56:19
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:56:09
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:56:24
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:56:09
+================================================================================
+[2023-03-12T20:57:05.707+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:56:49
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.16s           2023-03-12T20:56:39
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:56:54
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T20:56:39
+================================================================================
+[2023-03-12T20:57:35.940+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T20:57:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:57:09
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:57:24
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:57:09
+================================================================================
+[2023-03-12T20:58:06.178+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:57:50
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:57:40
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:57:55
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:57:40
+================================================================================
+[2023-03-12T20:58:36.413+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:58:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:58:10
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:58:25
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:58:10
+================================================================================
+[2023-03-12T20:59:06.660+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:58:50
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T20:58:40
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:58:55
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T20:58:40
+================================================================================
+[2023-03-12T20:59:36.894+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:59:20
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:59:10
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T20:59:25
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:59:10
+================================================================================
+[2023-03-12T21:00:07.130+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T20:59:51
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T20:59:41
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T20:59:56
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T20:59:41
+================================================================================
+[2023-03-12T21:00:37.362+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:00:21
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:00:11
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:00:26
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:00:11
+================================================================================
+[2023-03-12T21:01:03.580+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T21:01:03.582+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T21:01:07.605+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:00:51
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:00:41
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:00:56
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:00:41
+================================================================================
+[2023-03-12T21:01:37.840+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.15s           2023-03-12T21:01:21
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:01:11
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:01:26
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:01:11
+================================================================================
+[2023-03-12T21:02:08.101+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:01:52
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T21:01:42
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:01:57
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:01:41
+================================================================================
+[2023-03-12T21:02:38.355+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:02:22
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T21:02:12
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:02:27
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:02:12
+================================================================================
+[2023-03-12T21:03:08.588+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:02:52
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:02:42
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T21:02:57
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:02:42
+================================================================================
+[2023-03-12T21:03:38.842+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:03:22
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.14s           2023-03-12T21:03:12
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:03:27
+/opt/airflow/dags/OpenSky.py                                1           0  0.11s           2023-03-12T21:03:12
+================================================================================
+[2023-03-12T21:04:09.073+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:03:53
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:03:42
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:03:58
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:03:42
+================================================================================
+[2023-03-12T21:04:39.353+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:04:23
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.17s           2023-03-12T21:04:13
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:04:28
+/opt/airflow/dags/OpenSky.py                                1           0  0.12s           2023-03-12T21:04:13
+================================================================================
+[2023-03-12T21:05:09.592+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:04:53
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:04:43
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:04:58
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:04:43
+================================================================================
+[2023-03-12T21:05:39.844+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           0           1  0.03s           2023-03-12T21:05:18
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T21:05:13
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:05:28
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:05:13
+================================================================================
+[2023-03-12T21:06:04.129+0000] {manager.py:726} INFO - Searching for files in /opt/airflow/dags
+[2023-03-12T21:06:04.131+0000] {manager.py:729} INFO - There are 4 files in /opt/airflow/dags
+[2023-03-12T21:06:10.229+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T21:06:04
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.13s           2023-03-12T21:05:44
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T21:05:59
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:05:44
+================================================================================
+[2023-03-12T21:06:40.605+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.10s           2023-03-12T21:06:38
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:06:14
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T21:06:29
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:06:14
+================================================================================
+[2023-03-12T21:07:10.896+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:07:08
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:06:44
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:06:59
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:06:44
+================================================================================
+[2023-03-12T21:07:41.191+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:07:39
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:07:15
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:07:30
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:07:15
+================================================================================
+[2023-03-12T21:08:11.485+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:08:09
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:07:45
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T21:08:00
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:07:45
+================================================================================
+[2023-03-12T21:08:41.806+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:08:39
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:08:15
+/opt/airflow/dags/test-rocket.py                            1           0  0.11s           2023-03-12T21:08:30
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:08:15
+================================================================================
+[2023-03-12T21:09:12.104+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:09:10
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:08:45
+/opt/airflow/dags/test-rocket.py                            1           0  0.09s           2023-03-12T21:09:01
+/opt/airflow/dags/OpenSky.py                                1           0  0.10s           2023-03-12T21:08:45
+================================================================================
+[2023-03-12T21:09:42.408+0000] {manager.py:854} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                          PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/ISS_Location.py                           1           0  0.14s           2023-03-12T21:09:40
+/opt/airflow/dags/OpenSky_2.py                              1           0  0.12s           2023-03-12T21:09:16
+/opt/airflow/dags/test-rocket.py                            1           0  0.10s           2023-03-12T21:09:31
+/opt/airflow/dags/OpenSky.py                                1           0  0.09s           2023-03-12T21:09:16
+================================================================================
