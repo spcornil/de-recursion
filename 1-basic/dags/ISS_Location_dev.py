@@ -7,6 +7,8 @@ from airflow.operators.python import PythonOperator
 from airflow.providers.postgres.operators.postgres import PostgresOperator
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 from airflow.providers.google.cloud.transfers.postgres_to_gcs import PostgresToGCSOperator
+from airflow.providers.google.cloud.transfers.gcs_to_bigquery import GCSToBigQueryOperator
+from airflow.providers.google.cloud.operators.bigquery import (BigQueryCreateEmptyDatasetOperator, BigQueryDeleteDatasetOperator,)
 
 dag = DAG(
     dag_id="ISS_Location_2",
@@ -42,6 +44,29 @@ def _store_location():
         filename='/tmp/iss_loc.csv'
     )
 
+schema = [
+    {
+        'name': 'date_time',
+        'type': 'DATETIME',
+        'mode': 'NULLABLE',
+    },
+    {
+        'name': 'message',
+        'type': 'STRING',
+        'mode': 'NULLABLE',
+    },
+    {
+        'name': 'iss_longitude',
+        'type': 'NUMERIC',
+        'mode': 'NULLABLE',
+    },
+    {
+        'name': 'iss_latitude',
+        'type': 'NUMERIC',
+        'mode': 'NULLABLE',
+    },
+]
+
 create_table = PostgresOperator(
     task_id='create_table',
     postgres_conn_id='postgres',
@@ -52,7 +77,8 @@ create_table = PostgresOperator(
             iss_longitude NUMERIC NOT NULL,
             iss_latitude NUMERIC NOT NULL
         );
-    '''
+    ''',
+    dag=dag,
 )
 
 download_location = BashOperator(
@@ -64,7 +90,7 @@ download_location = BashOperator(
 parser_csv = PythonOperator(
     task_id ='parser_csv',
     python_callable = _parse_data,
-    dag=dag
+    dag=dag,
 )
 
 store_data = PythonOperator(
@@ -83,6 +109,29 @@ push_to_gcs = PostgresToGCSOperator(
     export_format='csv',
     gzip=False,
     use_server_side_cursor=False,
+    dag=dag,
 )
 
-create_table >> download_location >> parser_csv >> store_data >> push_to_gcs
+create_dataset = BigQueryCreateEmptyDatasetOperator(
+    task_id='create_dataset',
+    gcp_conn_id='gcp_conn',
+    dataset_id='iss_loc',
+    project_id='de-recursion'
+
+)
+
+gcs_to_bq = GCSToBigQueryOperator(
+    task_id='gcs_to_bq',
+    gcp_conn_id='gcp_conn',
+    bucket='de_proj_spc',
+    source_objects='iss_loc/iss_location.csv',
+    destination_project_dataset_table='de-recursion.iss_loc.iss_location',
+    schema_fields=schema,
+    create_disposition='CREATE_IF_NEEDED',
+    write_disposition='WRITE_TRUNCATE',
+    skip_leading_rows=1,
+    allow_quoted_newlines=True,
+    dag=dag,
+)
+
+create_table >> download_location >> parser_csv >> store_data >> push_to_gcs >> create_dataset >> gcs_to_bq
