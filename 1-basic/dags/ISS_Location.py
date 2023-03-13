@@ -6,6 +6,7 @@ from airflow.operators.bash import BashOperator
 from airflow.operators.python import PythonOperator
 from airflow.providers.postgres.operators.postgres import PostgresOperator
 from airflow.providers.postgres.hooks.postgres import PostgresHook
+from airflow.providers.google.cloud.transfers.postgres_to_gcs import PostgresToGCSOperator
 
 dag = DAG(
     dag_id="ISS_Location",
@@ -41,18 +42,6 @@ def _store_location():
         filename='/tmp/iss_loc.csv'
     )
 
-download_location = BashOperator(
-    task_id="download_location",
-    bash_command=f"curl -o /tmp/iss_loc_{dl_ts}.json -L 'http://api.open-notify.org/iss-now.json'",
-    dag=dag,
-)
-
-parser_csv = PythonOperator(
-    task_id ='parser_csv',
-    python_callable = _parse_data,
-    dag=dag
-)
-
 create_table = PostgresOperator(
     task_id='create_table',
     postgres_conn_id='postgres',
@@ -66,11 +55,22 @@ create_table = PostgresOperator(
     '''
 )
 
+download_location = BashOperator(
+    task_id="download_location",
+    bash_command=f"curl -o /tmp/iss_loc_{dl_ts}.json -L 'http://api.open-notify.org/iss-now.json'",
+    dag=dag,
+)
+
+parser_csv = PythonOperator(
+    task_id ='parser_csv',
+    python_callable = _parse_data,
+    dag=dag
+)
+
 store_data = PythonOperator(
     task_id='store_data',
     python_callable=_store_location,
     dag=dag,
 )
-
 
 create_table >> download_location >> parser_csv >> store_data
