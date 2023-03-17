@@ -12,8 +12,10 @@ from airflow.providers.google.cloud.operators.bigquery import (BigQueryCreateEmp
 
 dag = DAG(
     dag_id="ISS_Location_2",
-    start_date=datetime(2022, 1, 1),
-    schedule_interval='@once',
+    start_date=datetime(2023, 3, 15),
+    end_date=datetime(2023, 3, 18),
+    schedule_interval='*/10 * * * *',
+    catchup=False,
 )
 
 dl_ts = datetime.now().strftime("%Y-%m-%d-%H%M%S")
